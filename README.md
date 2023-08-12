@@ -71,7 +71,7 @@ Step 1 : Create index.jsp
 Here index.jsp just transfer control / request to 
 1. cookies.jsp
 
-```
+```jsp
 
    <%@ page language="java" contentType="text/html; charset=UTF-8"
    pageEncoding="UTF-8"%>
@@ -91,7 +91,7 @@ Step 2 : Create cookies.jsp
 
 2. cookies.jsp
    
-```   
+```jsp   
    <%@ page language="java" contentType="text/html; charset=UTF-8"
    pageEncoding="UTF-8"%>
    <html>
